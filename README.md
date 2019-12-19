@@ -32,7 +32,8 @@ Here is a helpful [tutorial](https://www.tutorialspoint.com/react_native/react_n
 
 ## Before you run the App
 1. Make sure that you change the sdk path in /android/local.properties file, with the path of sdk on your computer!
-2. In the folder Animals App open the terminal and run "react-native start" command and don't close this terminal.
-3. Open the AVD Manager from the Android Studio and run an Emulator.
-4. Once the graph is done and the emulator is ready, open another terminal in the Animals App folder and run "react-native run-android" command.
-5. Done! Your app should be running on Emulator.
+2. In the folder Animals App open the terminal and run "npm install".
+3. Once it is done, in the same folder run "react-native start" command and don't close this terminal.
+4. Open the AVD Manager from the Android Studio and run an Emulator.
+5. Once the graph is done and the emulator is ready, open another terminal in the Animals App folder and run "react-native run-android" command.
+6. Done! Your app should be running on Emulator.
