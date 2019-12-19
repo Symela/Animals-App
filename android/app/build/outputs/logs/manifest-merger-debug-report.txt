@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.61.5] /home/symela/.gradle/caches/transforms-2/files-2.1/be37307325a8400238fee94e6fa571a9/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /home/symela/.gradle/caches/transforms-2/files-2.1/475a0eb79e6cecda8f1066665713f56a/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/symela/.gradle/caches/transforms-2/files-2.1/3d010f146aba8e5577bb74c4aacd65de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/ad5c649e3314a51c94790428d549999f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/fe1cfa98dc1e8a835bf5d8d4814e5de4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/d0b3c57414fbb9f6d8044b5efd5e6265/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/08f2b402e1ce5ca4bd35e3ad03a7edc5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/07bc57f56684e4070ab72745032e4644/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/a50136a483eb06009c26f4d7e491f78a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/491bf7a78de818b072e06693f3ff423c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/symela/.gradle/caches/transforms-2/files-2.1/e1b981bfa658414844df47114a71f832/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/a7e576c74a1e4e348031e337da0da4c1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/d68b0666206a4de5f9fac5f572f5f0c0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/d7ffb28dbfa478b4483914fee4a0948b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/8e5924eb0843784af9aed9d4565e9bf2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/symela/.gradle/caches/transforms-2/files-2.1/2a072b36e67b8d4889149b8c8c43f5eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/161db34320c738f6daf821c88899a3d1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/e398f4bfe65b3348572083900ecbb7b5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/304b390d4dcf8e5d9f8839ade3e5d1d6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/1be0c23b51580a051a2569b25dd8e230/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/2debb9aeb9e88a71f7367859164e415d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/99973a8313dbfc2f9df41ab4e8940ff7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/3c198447c33c172b12b7dca6b0bd3a30/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/f7ea643ba34f92538592df2206bcdf6f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/symela/.gradle/caches/transforms-2/files-2.1/9433643bbe61976b3bec2c4012ed7d52/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/f80d5e9b8e8a797ba08ce52e9eccb479/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/1ba3a33d3b91ed9c97c62651d6fa2b99/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/00c6a046e99cc31adeffd54a55561306/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/ff3ed24da21f2de57b0f8375b08a1c97/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/023403af93300b54ac64dbfb2d103ed7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/ae795b21c924e792566daa640361e909/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/ed14ab9b5241ea0e8b31378e6aa69d0c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/160941fb7febb37b7cfaa0de6a26b0d5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/c8a89476cc82ee915f599d3282a3e220/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/18786c93fced3943656040ee26234120/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/629f1e9372d8c5bc781dbcf117a73609/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/5a2fda60d0f4067edcff302f986191d6/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] /home/symela/.gradle/caches/transforms-2/files-2.1/be37307325a8400238fee94e6fa571a9/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /home/symela/.gradle/caches/transforms-2/files-2.1/be37307325a8400238fee94e6fa571a9/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/symela/.gradle/caches/transforms-2/files-2.1/e1b981bfa658414844df47114a71f832/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/symela/.gradle/caches/transforms-2/files-2.1/e1b981bfa658414844df47114a71f832/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /home/symela/.gradle/caches/transforms-2/files-2.1/9433643bbe61976b3bec2c4012ed7d52/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/symela/.gradle/caches/transforms-2/files-2.1/9433643bbe61976b3bec2c4012ed7d52/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/f80d5e9b8e8a797ba08ce52e9eccb479/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/f80d5e9b8e8a797ba08ce52e9eccb479/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/symela/.gradle/caches/transforms-2/files-2.1/9433643bbe61976b3bec2c4012ed7d52/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.gimmecatto.MainActivity
+ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.61.5] /home/symela/.gradle/caches/transforms-2/files-2.1/be37307325a8400238fee94e6fa571a9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/symela/.gradle/caches/transforms-2/files-2.1/be37307325a8400238fee94e6fa571a9/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/symela/.gradle/caches/transforms-2/files-2.1/475a0eb79e6cecda8f1066665713f56a/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/symela/.gradle/caches/transforms-2/files-2.1/475a0eb79e6cecda8f1066665713f56a/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/symela/.gradle/caches/transforms-2/files-2.1/3d010f146aba8e5577bb74c4aacd65de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/symela/.gradle/caches/transforms-2/files-2.1/3d010f146aba8e5577bb74c4aacd65de/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/ad5c649e3314a51c94790428d549999f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/ad5c649e3314a51c94790428d549999f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/fe1cfa98dc1e8a835bf5d8d4814e5de4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/fe1cfa98dc1e8a835bf5d8d4814e5de4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/d0b3c57414fbb9f6d8044b5efd5e6265/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/d0b3c57414fbb9f6d8044b5efd5e6265/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/08f2b402e1ce5ca4bd35e3ad03a7edc5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/08f2b402e1ce5ca4bd35e3ad03a7edc5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/07bc57f56684e4070ab72745032e4644/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/07bc57f56684e4070ab72745032e4644/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/a50136a483eb06009c26f4d7e491f78a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/a50136a483eb06009c26f4d7e491f78a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/491bf7a78de818b072e06693f3ff423c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/491bf7a78de818b072e06693f3ff423c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/symela/.gradle/caches/transforms-2/files-2.1/e1b981bfa658414844df47114a71f832/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/symela/.gradle/caches/transforms-2/files-2.1/e1b981bfa658414844df47114a71f832/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/a7e576c74a1e4e348031e337da0da4c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/a7e576c74a1e4e348031e337da0da4c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/d68b0666206a4de5f9fac5f572f5f0c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/d68b0666206a4de5f9fac5f572f5f0c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/d7ffb28dbfa478b4483914fee4a0948b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/d7ffb28dbfa478b4483914fee4a0948b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/8e5924eb0843784af9aed9d4565e9bf2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/8e5924eb0843784af9aed9d4565e9bf2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/symela/.gradle/caches/transforms-2/files-2.1/2a072b36e67b8d4889149b8c8c43f5eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/symela/.gradle/caches/transforms-2/files-2.1/2a072b36e67b8d4889149b8c8c43f5eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/161db34320c738f6daf821c88899a3d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/161db34320c738f6daf821c88899a3d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/e398f4bfe65b3348572083900ecbb7b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/e398f4bfe65b3348572083900ecbb7b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/304b390d4dcf8e5d9f8839ade3e5d1d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/304b390d4dcf8e5d9f8839ade3e5d1d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/1be0c23b51580a051a2569b25dd8e230/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/1be0c23b51580a051a2569b25dd8e230/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/2debb9aeb9e88a71f7367859164e415d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/2debb9aeb9e88a71f7367859164e415d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/99973a8313dbfc2f9df41ab4e8940ff7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/99973a8313dbfc2f9df41ab4e8940ff7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/3c198447c33c172b12b7dca6b0bd3a30/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/3c198447c33c172b12b7dca6b0bd3a30/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/f7ea643ba34f92538592df2206bcdf6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/f7ea643ba34f92538592df2206bcdf6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/symela/.gradle/caches/transforms-2/files-2.1/9433643bbe61976b3bec2c4012ed7d52/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/symela/.gradle/caches/transforms-2/files-2.1/9433643bbe61976b3bec2c4012ed7d52/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/f80d5e9b8e8a797ba08ce52e9eccb479/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/f80d5e9b8e8a797ba08ce52e9eccb479/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/1ba3a33d3b91ed9c97c62651d6fa2b99/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/1ba3a33d3b91ed9c97c62651d6fa2b99/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/00c6a046e99cc31adeffd54a55561306/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/00c6a046e99cc31adeffd54a55561306/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/ff3ed24da21f2de57b0f8375b08a1c97/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/ff3ed24da21f2de57b0f8375b08a1c97/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/023403af93300b54ac64dbfb2d103ed7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/023403af93300b54ac64dbfb2d103ed7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/ae795b21c924e792566daa640361e909/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/ae795b21c924e792566daa640361e909/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/ed14ab9b5241ea0e8b31378e6aa69d0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/ed14ab9b5241ea0e8b31378e6aa69d0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/160941fb7febb37b7cfaa0de6a26b0d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/160941fb7febb37b7cfaa0de6a26b0d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/c8a89476cc82ee915f599d3282a3e220/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/c8a89476cc82ee915f599d3282a3e220/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/18786c93fced3943656040ee26234120/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/18786c93fced3943656040ee26234120/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/629f1e9372d8c5bc781dbcf117a73609/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/629f1e9372d8c5bc781dbcf117a73609/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/5a2fda60d0f4067edcff302f986191d6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/symela/.gradle/caches/transforms-2/files-2.1/5a2fda60d0f4067edcff302f986191d6/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/symela/Desktop/Mobile Developer Challenge/GimmeCatto/android/app/src/debug/AndroidManifest.xml:5:22-75
