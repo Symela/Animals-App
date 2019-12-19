@@ -22,5 +22,17 @@ An example of what it looks like is:
 
 image
 
+## Requirements
+* SDK
+* Android Studio
+* NodeJS
+* npm
+
+Here is a helpful [tutorial](https://www.tutorialspoint.com/react_native/react_native_environment_setup.htm).
+
 ## Before you run the App
-Make sure that you change the sdk path in /android/local.properties file, with the path of sdk on your computer!
+1. Make sure that you change the sdk path in /android/local.properties file, with the path of sdk on your computer!
+2. In the folder Animals App open the terminal and run "react-native start" command and don't close this terminal.
+3. Open the AVD Manager from the Android Studio and run an Emulator.
+4. Once the graph is done and the emulator is ready, open another terminal in the Animals App folder and run "react-native run-android" command.
+5. Done! Your app should be running on Emulator.
